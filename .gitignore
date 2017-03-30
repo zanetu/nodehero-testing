@@ -1,2 +1,4 @@
 node_modules
 /.project
+/.coveralls.yml
+/coverage/
